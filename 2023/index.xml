@@ -7,6 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://hotcarbon.org/2023/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>HotCarbon&#39;22 Technical Program</title>
+      <link>https://hotcarbon.org/2023/program/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hotcarbon.org/2023/program/</guid>
+      <description>The workshop will be held at Boston University in room 1750 at the Center for Computing &amp;amp; Data Sciences, 665 Commonwealth Avenue, Boston, MA 02215.
+Breakfast and coffee (7:30am - 8:20am) Introduction and welcome (8:20am - 8:30am) George Porter (Univ. of California, San Diego), Tom Anderson (Univ. of Washington, Seattle), Andrew A. Chien (University of Chicago and Argonne National Laboratory), and Tamar Eilam (IBM)
+Track 1: Systems (8:30am - 10:10am) This session focuses on systems energy and carbon quantification and optimization, including CPU, GPU, DRAMs, their configuration, tools, and accuracy evaluation.</description>
+    </item>
+    
+    <item>
       <title>HotCarbon&#39;23 Registration</title>
       <link>https://hotcarbon.org/2023/registration/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -15,15 +26,6 @@
       <description>Registration now available!
 The workshop will be held at Boston University in room 1750 at the Center for Computing &amp;amp; Data Sciences, 665 Commonwealth Avenue, Boston, MA 02215.
 Registration types     Students/Faculty/Industry     In-person (before July 1) $200   In-person Late (July 1 and later) $250    Registration website You can register at our EventBrite website.</description>
-    </item>
-    
-    <item>
-      <title>HotCarbon&#39;23 Technical Program</title>
-      <link>https://hotcarbon.org/2023/program/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://hotcarbon.org/2023/program/</guid>
-      <description>Coming Soon!</description>
     </item>
     
   </channel>
